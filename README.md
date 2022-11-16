@@ -13,7 +13,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="[https://www.clipartmax.com/png/middle/279-2791029_python-icon-python-logo.png](https://banner2.cleanpng.com/20180718/hic/kisspng-network-security-hacker-python-kobe-computer-icons-5b4fede96e5cf2.5942174415319649054521.jpg)" width="30px"></code>
+<code><img src="https://www.pngfind.com/pngs/m/230-2301392_python-vector-head-white-python-logo-png-transparent.png" width="30px"></code>
 <code><img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" width="20px"></code>
 <code><img src="https://banner2.cleanpng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" width="30px"></code>
 <code><img src="https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" width="30px"></code>
