@@ -13,10 +13,10 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://img3.wallspic.com/crops/0/9/2/3/6/163290/163290-python_logo-python-icon-programming_language-logo-3840x2160.png" width="30px"></code>
-<code><img src="https://i.pinimg.com/564x/b8/55/d7/b855d7da2db5d7f73fd3eb7c9a961660.jpg" width="20px"></code>
-<code><img src="https://www.pngmart.com/files/22/MySQL-PNG-Background-Image.png" width="30px"></code>
-<code><img src"[https://w0.peakpx.com/wallpaper/987/583/HD-wallpaper-language-c-chedesign-programming-thumbnail.jpg](https://w7.pngwing.com/pngs/332/73/png-transparent-c-programming-language-reserved-word-java-others-logo-monochrome-number.png)" width="30px"></code>
+<code><img src="https://img3.wallspic.com/crops/0/9/2/3/6/163290/163290-python_logo-python-icon-programming_language-logo-3840x2160.png" width="40px"></code>
+<code><img src="https://www.citypng.com/public/uploads/preview/java-white-logo-image-png-11662223627lbngsm1w0t.png" width="40px"></code>
+<code><img src="https://www.pngmart.com/files/22/MySQL-PNG-Background-Image.png" width="40px"></code>
+
 
 
 <br />
