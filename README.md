@@ -14,7 +14,7 @@
 ### Languages and tools I work with:
 
 <code><img src="https://img3.wallspic.com/crops/0/9/2/3/6/163290/163290-python_logo-python-icon-programming_language-logo-3840x2160.png" width="40px"></code>
-<code><img src="https://cdn-icons-png.flaticon.com/512/121/121152.png" width="40px"></code>
+<code><img src="https://mpng.subpng.com/20180528/xc/kisspng-java-platform-enterprise-edition-computer-program-java-5b0bf9a56ea501.5862886015275114614532.jpg" width="40px"></code>
 <code><img src="https://www.pngmart.com/files/22/MySQL-PNG-Background-Image.png" width="40px"></code>
 
 
