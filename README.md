@@ -13,7 +13,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://img3.wallspic.com/crops/0/9/2/3/6/163290/163290-python_logo-python-icon-programming_language-logo-3840x2160.png" width="40px"></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="40px"></code>
 <code><img src="https://www.buildateam.io/wp-content/uploads/2018/07/logo-java.png" width="30px"></code>
 <code><img src="https://www.pngmart.com/files/22/MySQL-PNG-Background-Image.png" width="40px"></code>
 
